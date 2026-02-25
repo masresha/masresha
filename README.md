@@ -3,7 +3,7 @@
 🚀 **Senior Software Developer | Full-Stack Engineer | System Architect**  
 Based in **Addis Ababa, Ethiopia** · Building scalable, production-grade software for web and mobile.
 
-I’m a results-driven full-stack engineer with **7+ years** of experience designing, building, and shipping
+I’m a results-driven full-stack engineer with **9+ years** of experience designing, building, and shipping
 applications across fintech, telecom, education, and enterprise environments. I love turning complex problems
 into clean architectures, smooth user experiences, and reliable deployments.
 
